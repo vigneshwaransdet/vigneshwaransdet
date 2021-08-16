@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking for help with product based firm as a SDET Role.
 - 💬 Ask me about anyting related to Front End Automation/Selenium WebDriver/Java
-- 📫 How to reach me: [mailto](vigneshwaran.qaengr@gmail.com)
+- 📫 How to reach me: [vigneshwaran.qaengr@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
