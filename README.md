@@ -5,11 +5,13 @@ I'm a QA Automation Engineer from India.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking for help with product based firm as a SDET Role.
-- 💬 Ask me about anyting related to Front End Automation/Selenium WebDriver/Java
+- 💬 Ask me about anyting related to Front End Automation/Selenium WebDriver/Test Automation Framework
 - 📫 How to reach me: vigneshwaranbgh@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vigneshwaran-baskaran/)
+
+## Tools
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
