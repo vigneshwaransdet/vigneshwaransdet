@@ -1,11 +1,5 @@
 ### Hi there 👋, This is Vigneshwaran
 I'm a QA Automation Engineer from India.
-<br>
-<!--
-**vigneshwaransdet/vigneshwaransdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---!>
 
 - 🔭 I’m currently working on upgrading skill on my logical thinking capability.
 - 🌱 I’m currently learning Data Structures and Algorithms.
@@ -15,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vigneshwaranbgh@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
-<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vigneshwaran-baskaran/)
