@@ -13,7 +13,6 @@ I'm a QA Automation Engineer from India.
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vigneshwaran-baskaran/)
 <br>
 ## Tools
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
  [![General badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
  
 
