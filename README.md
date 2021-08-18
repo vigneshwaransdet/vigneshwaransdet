@@ -29,8 +29,13 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaransdet)](https://github.com/vigneshwaransdet/vigneshwaransdet/blob/main/README.md)
 
-[![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshwaransdet)](https://github.com/vigneshwaransdet/vigneshwaransdet/blob/main/README.md)
+
+<a href="https://github.com/vigneshwaransdet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshwaransdet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Vigneshwaran's github stats" />
+</a>
+<a href="https://github.com/vigneshwaransdet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaransdet&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
+</a>
  
 
