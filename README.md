@@ -29,6 +29,17 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
+![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
+![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=flat&logo=Jenkins)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=maven)&nbsp;
+![Cucumber](https://img.shields.io/badge/Cucumber-e6e6e6?style=flat&logo=cucumber)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+
 
 
 <a href="https://github.com/vigneshwaransdet">
