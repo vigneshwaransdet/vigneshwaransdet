@@ -20,6 +20,7 @@
 </a>
 </p>
 
+<h3 align="left">Technical Skills:</h3>
 ![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
 ![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
