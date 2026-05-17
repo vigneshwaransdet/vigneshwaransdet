@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshwaransdet&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I'm currently working on **building scalable Test Automation Frameworks using Selenium & Java**
-- 🌱 I'm currently learning **Data Structures, Algorithms & Problem Solving**
-- 👯 I'm looking to collaborate on **Test Automation & QA Engineering projects**
-- 💬 Ask me about **Selenium WebDriver, API Automation, TestNG, CI/CD, Framework Design**
+- 🔭 Currently building **AI-assisted Test Automation Frameworks** at a leading Cybersecurity firm
+- 🌱 Sharpening **DSA & Problem Solving** skills on LeetCode
+- 💬 Ask me about **Selenium, REST Assured, Framework Design, CI/CD pipelines**
+- 🤝 Open to collaborate on **QA Automation & SDET projects**
 - 📫 How to reach me **vigneshwaransdet@gmail.com**
-- ⚡ Fun fact: **I automate things so humans don't have to! 🤖**
+- ⚡ **9+ years of breaking things professionally — so users don't have to!**
 
 ---
 
@@ -25,9 +25,6 @@
 </p>
 
 ---
-
-<h3 align="left">Technical Skills:</h3>
-
 <h3 align="left">Technical Skills:</h3>
 
 **Test Automation:**
@@ -74,9 +71,7 @@
 ![SQL](https://img.shields.io/badge/SQL-e6e6e6?style=flat&logo=mysql)&nbsp;
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira)&nbsp;
 ![TestRail](https://img.shields.io/badge/TestRail-e6e6e6?style=flat&logo=testrail)&nbsp;
-
 ---
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
 <a href="https://github.com/vigneshwaransdet">
