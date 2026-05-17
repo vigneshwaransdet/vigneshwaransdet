@@ -25,57 +25,54 @@
 </p>
 
 ---
-
 <h3 align="left">Technical Skills:</h3>
-
 **Test Automation:**
 
-![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
-![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
-![Cucumber](https://img.shields.io/badge/Cucumber-e6e6e6?style=flat&logo=cucumber)&nbsp;
-![Playwright](https://img.shields.io/badge/Playwright-e6e6e6?style=flat&logo=playwright)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)&nbsp;
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logo=testng&logoColor=white)&nbsp;
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)&nbsp;
 
 **API Testing:**
 
-![REST Assured](https://img.shields.io/badge/REST%20Assured-e6e6e6?style=flat&logo=java)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
-![SOAP UI](https://img.shields.io/badge/SOAP%20UI-e6e6e6?style=flat&logo=soapui)&nbsp;
+![REST Assured](https://img.shields.io/badge/REST%20Assured-005F73?style=flat&logo=java&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![SOAP UI](https://img.shields.io/badge/SOAP%20UI-6A0DAD?style=flat&logo=soapui&logoColor=white)&nbsp;
 
 **CI/CD & DevOps:**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=flat&logo=Jenkins)&nbsp;
-![TeamCity](https://img.shields.io/badge/TeamCity-e6e6e6?style=flat&logo=teamcity)&nbsp;
-![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=apachemaven)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-e6e6e6?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Bitbucket](https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat&logo=teamcity&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 
 **AI-Assisted Testing:**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-05122A?style=flat&logo=github)&nbsp;
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-e6e6e6?style=flat&logo=cursor)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-6C63FF?style=flat&logo=cursor&logoColor=white)&nbsp;
 
 **Cloud & Cross Browser:**
 
-![BrowserStack](https://img.shields.io/badge/BrowserStack-e6e6e6?style=flat&logo=browserstack)&nbsp;
-![LambdaTest](https://img.shields.io/badge/LambdaTest-e6e6e6?style=flat&logo=lambdatest)&nbsp;
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat&logo=browserstack&logoColor=white)&nbsp;
+![LambdaTest](https://img.shields.io/badge/LambdaTest-171717?style=flat&logo=lambdatest&logoColor=white)&nbsp;
 
 **Programming:**
 
-![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 
 **Database:**
 
-![SQL](https://img.shields.io/badge/SQL-e6e6e6?style=flat&logo=mysql)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 
 **Test Management:**
 
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira)&nbsp;
-![TestRail](https://img.shields.io/badge/TestRail-e6e6e6?style=flat&logo=testrail)&nbsp;
-
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)&nbsp;
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat&logo=testrail&logoColor=white)&nbsp;
 ---
 
 <h3 align="left">GitHub Stats:</h3>
