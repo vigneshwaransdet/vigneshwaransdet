@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **Data Structures, Algorithms & Problem Solving**
 - 👯 I'm looking to collaborate on **Test Automation & QA Engineering projects**
 - 💬 Ask me about **Selenium WebDriver, API Automation, TestNG, CI/CD, Framework Design**
-- 📫 How to reach me **vigneshwaranbgh@gmail.com**
+- 📫 How to reach me **vigneshwaransdet@gmail.com**
 - ⚡ Fun fact: **I automate things so humans don't have to! 🤖**
 
 ---
