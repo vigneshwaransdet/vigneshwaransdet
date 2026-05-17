@@ -54,6 +54,10 @@
 <a href="https://github.com/vigneshwaransdet">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshwaransdet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </a>
+
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshwaransdet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 </p>
 <p align="center">
 <a href="https://github.com/vigneshwaransdet">
