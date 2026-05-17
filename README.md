@@ -60,6 +60,10 @@
 </p>
 </p>
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=vigneshwaransdet&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
 <a href="https://github.com/vigneshwaransdet">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshwaransdet&layout=compact&langs_count=8&theme=algolia"/>
 </a>
