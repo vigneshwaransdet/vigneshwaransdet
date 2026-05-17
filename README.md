@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran</h1>
-<h3 align="center">A passionate QA Automation Engineer from India</h3>
+<h3 align="center">Senior SDET | 9+ years in UI & API Test Automation | Selenium | Java | CI/CD</h3>
 
 - 🔭 I’m currently working on **upgrading my skill on logical thinking capability.**
 
