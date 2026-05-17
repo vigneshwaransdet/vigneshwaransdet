@@ -78,9 +78,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshwaransdet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshwaransdet&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <p align="center">
