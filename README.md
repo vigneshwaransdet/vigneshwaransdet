@@ -25,12 +25,12 @@
 </p>
 
 ---
+
 <h3 align="left">Technical Skills:</h3>
 
 **Test Automation:**
 
 ![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
-![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-e6e6e6?style=flat&logo=cucumber)&nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-e6e6e6?style=flat&logo=playwright)&nbsp;
@@ -63,22 +63,28 @@
 
 **Programming:**
 
+![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 
-**Database & Management:**
+**Database:**
 
 ![SQL](https://img.shields.io/badge/SQL-e6e6e6?style=flat&logo=mysql)&nbsp;
+
+**Test Management:**
+
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira)&nbsp;
 ![TestRail](https://img.shields.io/badge/TestRail-e6e6e6?style=flat&logo=testrail)&nbsp;
+
 ---
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<a href="https://github.com/vigneshwaransdet">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshwaransdet&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshwaransdet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaransdet&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshwaransdet&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vigneshwaransdet&theme=tokyonight&hide_border=true" />
 </p>
