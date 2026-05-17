@@ -28,24 +28,52 @@
 
 <h3 align="left">Technical Skills:</h3>
 
+<h3 align="left">Technical Skills:</h3>
+
 **Test Automation:**
 
 ![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-e6e6e6?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-e6e6e6?style=flat&logo=cucumber)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-e6e6e6?style=flat&logo=playwright)&nbsp;
 
-**CI/CD & Tools:**
+**API Testing:**
+
+![REST Assured](https://img.shields.io/badge/REST%20Assured-e6e6e6?style=flat&logo=java)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
+![SOAP UI](https://img.shields.io/badge/SOAP%20UI-e6e6e6?style=flat&logo=soapui)&nbsp;
+
+**CI/CD & DevOps:**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=flat&logo=Jenkins)&nbsp;
-![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=maven)&nbsp;
+![TeamCity](https://img.shields.io/badge/TeamCity-e6e6e6?style=flat&logo=teamcity)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=apachemaven)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-e6e6e6?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+**AI-Assisted Testing:**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-05122A?style=flat&logo=github)&nbsp;
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-e6e6e6?style=flat&logo=cursor)&nbsp;
+
+**Cloud & Cross Browser:**
+
+![BrowserStack](https://img.shields.io/badge/BrowserStack-e6e6e6?style=flat&logo=browserstack)&nbsp;
+![LambdaTest](https://img.shields.io/badge/LambdaTest-e6e6e6?style=flat&logo=lambdatest)&nbsp;
 
 **Programming:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+
+**Database & Management:**
+
+![SQL](https://img.shields.io/badge/SQL-e6e6e6?style=flat&logo=mysql)&nbsp;
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira)&nbsp;
+![TestRail](https://img.shields.io/badge/TestRail-e6e6e6?style=flat&logo=testrail)&nbsp;
 
 ---
 
