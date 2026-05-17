@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshwaransdet&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 Currently building **AI-assisted Test Automation Frameworks** at a leading Cybersecurity firm
-- 🌱 Sharpening **DSA & Problem Solving** skills on LeetCode
-- 💬 Ask me about **Selenium, REST Assured, Framework Design, CI/CD pipelines**
+- 🏢 Currently @ **Gen Digital (NortonLifeLock)** — Senior SDET
+- 📈 Leveling up **DSA & Problem Solving** on LeetCode
+- 💬 Ask me about **Selenium • REST Assured • Framework Design • CI/CD**
 - 🤝 Open to collaborate on **QA Automation & SDET projects**
-- 📫 How to reach me **vigneshwaransdet@gmail.com**
-- ⚡ **9+ years of breaking things professionally — so users don't have to!**
+- 📫 **vigneshwaransdet@gmail.com**
+- ⚡ 9+ years of **breaking things professionally** — so users don't have to!
 
 ---
 
