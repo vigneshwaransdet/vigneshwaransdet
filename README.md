@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshwaransdet&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vigneshwaransdet" alt="GitHub Streak" /></a>
 </p>
